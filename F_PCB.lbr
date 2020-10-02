@@ -73,7 +73,7 @@
 <packages>
 <package name="F_PCB">
 <description>Library for F-connector created by Nicu FLORICA (niq_ro)</description>
-<pad name="F0" x="0" y="0" drill="0.8" diameter="3.81" rot="R90"/>
+<pad name="F0" x="0" y="0" drill="1.2" diameter="3.81" rot="R90"/>
 <pad name="F4" x="-4.25" y="4.25" drill="2" diameter="3.81" shape="square"/>
 <pad name="F1" x="4.25" y="4.25" drill="2" diameter="3.81" shape="square"/>
 <pad name="F2" x="4.25" y="-4.25" drill="2" diameter="3.81" shape="square"/>
