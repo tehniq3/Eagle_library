@@ -72,6 +72,7 @@
 <library>
 <packages>
 <package name="TEF6686">
+<description>Library for TEF6686 created by Nicu FLORICA (niq_ro)</description>
 <pad name="6" x="0" y="0" drill="0.8" diameter="1.6764" shape="long"/>
 <pad name="5" x="0" y="2" drill="0.8" diameter="1.6764" shape="long"/>
 <pad name="4" x="0" y="4" drill="0.8" diameter="1.6764" shape="long"/>
@@ -95,6 +96,7 @@
 </packages>
 <symbols>
 <symbol name="TEF6686">
+<description>Library for TEF6686 created by Nicu FLORICA (niq_ro)</description>
 <wire x1="-15.24" y1="10.16" x2="27.94" y2="10.16" width="0.254" layer="94"/>
 <wire x1="27.94" y1="10.16" x2="27.94" y2="-7.62" width="0.254" layer="94"/>
 <wire x1="27.94" y1="-7.62" x2="-15.24" y2="-7.62" width="0.254" layer="94"/>
@@ -117,6 +119,7 @@
 </symbols>
 <devicesets>
 <deviceset name="TEF6686">
+<description>Library for TEF6686 tuner created by Nicu FLORICA (niq_ro)</description>
 <gates>
 <gate name="G$1" symbol="TEF6686" x="-7.62" y="-2.54"/>
 </gates>
